@@ -1,0 +1,5 @@
+{
+    "intent_type": "notes.take.intent",
+    "expected_dialog": "corgi.the.feed",
+    "utterance": "Read me my notes"
+}
